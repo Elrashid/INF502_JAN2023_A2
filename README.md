@@ -1,4 +1,10 @@
-# Why Can GPT Learn In-Context?
+#Run
+
+INF502_JAN2023_A2.ipynb
+
+The code is modified to work with google colab without docker
+
+## Why Can GPT Learn In-Context?
 This repository contains the implementation of ACL 2023 Findings paper "Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers".
 
 ## Installation
